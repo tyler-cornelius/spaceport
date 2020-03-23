@@ -25,7 +25,7 @@ var isHuman = true
 // Reassign (not initialize) your "age" variable from above. Use a built in math
 // operator to make your age half of what it currently is.
 
-age = 27 / 2
+age = age / 2
 
 // Create a variable named "greeting", and assign it to a greeting of your
 // choice. Your chosen greeting must make use of your "name" variable from above
