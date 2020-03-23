@@ -10,7 +10,7 @@
 // your own name and age.
 
 var name = "Tyler"
-var age = 25
+var age = 27
 
 
 // Initialize a new variable "someThing", but leave it undefined
